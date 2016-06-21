@@ -8,6 +8,7 @@
 </head>
 <body>
 <section>
+    <h2>TEST</h2>
     <h2><a href="index.html">Home</a></h2>
     <h3>${param.action == 'create' ? 'Create meal' : 'Edit meal'}</h3>
     <hr>
